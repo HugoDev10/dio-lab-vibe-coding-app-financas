@@ -1,3 +1,5 @@
+💸 App de Finanças Pessoais com Vibe Coding e Copilot Web
+
 PRD refinado no Copilot WEB:
 
 ```markdown
