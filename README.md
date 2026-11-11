@@ -237,7 +237,7 @@ Interação com o Lovable:
 Resultado Final no Lovable: https://brightday-budget.lovable.app/
 
 <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/65ef71e7-fe32-4005-bf03-a46d416b44b9" />
-## Sobre o Projeto
+
 
 O **Conta Comigo** é um aplicativo de organização financeira pessoal baseado em conversação, projetado para tornar o controle financeiro simples, intuitivo e acessível para qualquer pessoa.
 
