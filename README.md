@@ -1,5 +1,12 @@
 💸 App de Finanças Pessoais com Vibe Coding e Copilot Web
 
+
+Sobre o Projeto
+Este projeto foi desenvolvido com o objetivo de explorar o conceito de Vibe Coding, utilizando Inteligência Artificial como parceira no processo de criação de software.
+
+A proposta consistiu em idealizar e construir um Aplicativo de Organização de Finanças Pessoais por meio de uma comunicação simples e natural com ferramentas de IA, utilizando o Microsoft Copilot para refinar o PRD (Product Requirements Document) e o Lovable para transformar esse documento em uma aplicação funcional.
+
+
 PRD refinado no Copilot WEB:
 
 ```markdown
