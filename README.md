@@ -4,7 +4,7 @@
 Sobre o Projeto
 Este projeto foi desenvolvido com o objetivo de explorar o conceito de Vibe Coding, utilizando Inteligência Artificial como parceira no processo de criação de software.
 
-A proposta consistiu em idealizar e construir um Aplicativo de Organização de Finanças Pessoais por meio de uma comunicação simples e natural com ferramentas de IA, utilizando o Microsoft Copilot para refinar o PRD (Product Requirements Document) e o Lovable para transformar esse documento em uma aplicação funcional.
+A proposta consistiu em idealizar e construir um Aplicativo de Organização de Finanças Pessoais por meio de uma comunicação simples e natural com ferramentas de IA, utilizando o Microsoft Copilot para refinar o PRD (Product Requirement Document) e o Lovable para transformar esse documento em uma aplicação funcional.
 
 
 PRD refinado no Copilot WEB:
@@ -232,7 +232,7 @@ Criar um MVP funcional com:
 ```
 Interação com o Lovable:
 
-> Crie um APP de finanças pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
+> Crie um APP de finanças pessoais com base no seguinte PRD (Product Requirement Document): {PRD}
 
 Resultado Final no Lovable: https://brightday-budget.lovable.app/
 
